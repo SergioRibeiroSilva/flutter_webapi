@@ -9,10 +9,10 @@ void main() {
 
 JournalService service = JournalService();
 
-  service.get();
+  //service.get();
 
   
-  service.register("Olá Pttc333.......");
+  service.register("Olá Pttc4444333.......");
 
 
 
